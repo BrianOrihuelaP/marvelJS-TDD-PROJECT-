@@ -1,0 +1,1 @@
+/* aqui se ejecuta etodo el proyecto de manera normal (no testing) */

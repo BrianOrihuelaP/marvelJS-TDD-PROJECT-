@@ -17,7 +17,7 @@ describe("Unit Testing for Superhero", () =>
     });   
 })
 
-/* READ ABOUT TDD */
+/* READ ABOUT TDD - TEST DRIVEN DEVELOPMENT */
 /* EL TDD es una metodologia de desarollo la cual consta de modelar pruebas unitarias, y partir del 
 modelado de la prueba unitaria, ir resolviendo las fallas hasta que nuestro modelado del requerimiento 
 funcional (prueba) se cumpla, entonces si estructurar de una manera mas optima nuestro proyecto */
